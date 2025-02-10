@@ -167,7 +167,7 @@ jobs:
 - generated from Github runnerGithub actionsStep
 
 **Step G: Setting Up Amazon EKS**
-- `git clone: https://github.com/etaoko333/Fashionova-boutique.git`
+- `git clone: https://github.com/SantoshMorla/Myntra-Clone.git`
 - cd Fashionova-boutique
 - cd EKS-TF
 - terraform init
